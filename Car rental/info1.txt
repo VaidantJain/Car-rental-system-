@@ -1,0 +1,21 @@
+    
+    									
+                                                              ELECTRIC CAR DIFFERENT MODELS:  
+
+        											Available cars:
+_______________________________________________________________________________________________________________________________________________________________________
+        Car name-> Tesla                |   Car name-> Tata tiago EV    |Car name-> BMW                |Car name-> BMW                 |Car name-> Audi
+                                        |                               |                              |                               |
+        Model-> Model 3                 | Model-> XZ+ tech lux          |Model->i7                     |Model->iX                      |Model-> A8 Q5
+                                        |                               |                              |                               |
+        No. plate->0006                 | No. plate->0009               |No. plate->0003               |No. plate->0001                |No. plate-> 0007
+                                        |                               |                              |                               |
+        Mileage-> 578 km in one charge  | Mileage->530 km in one charge |Mileage->560 km in one charge |Mileage->565 km in one charge  |Mileage-> 560 km in one charge
+                                        |                               |                              |                               |
+        Max. speed->225 km/h            | Max. speed->220 km/h          |Max. speed->225 km/h          |Max. speed->225 km/h           |Max. speed-> 217 km/h
+                                        |                               |                              |                               |
+        perday price->16000             | perday price->14000           |perday price->15000           |perday price->18000            |perday price-> 16500
+                                        |                               |                              |                               |
+        no. of seats->4                 | no. of seats->4               |no. of seats->                |no. of seats->4                |no. of seats->4
+                                        |                               |                              |                               |
+________________________________________|_______________________________|______________________________|_______________________________|________________________________	
